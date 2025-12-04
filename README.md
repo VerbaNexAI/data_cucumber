@@ -1,2 +1,2 @@
-# data_cucumber
+# Data Cucumber images
 Data Cucumber images
